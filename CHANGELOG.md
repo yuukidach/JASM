@@ -1,5 +1,73 @@
 # Changelog
 
+## [2.22.6](https://github.com/Jorixon/JASM/compare/v2.22.5...v2.22.6) (2025-06-16)
+
+
+### Miscellaneous
+
+* Added ZZZ Characters and Genshin Characters ([#388](https://github.com/Jorixon/JASM/issues/388)) ([a2b806f](https://github.com/Jorixon/JASM/commit/a2b806fba902394e6e9cf3bb72fdb148adc198e6))
+
+## [2.22.5](https://github.com/Jorixon/JASM/compare/v2.22.4...v2.22.5) (2025-05-25)
+
+
+### Bug Fixes
+
+* Window size is now saved and restored correctly when using DPI scaling ([#384](https://github.com/Jorixon/JASM/issues/384)) ([160b156](https://github.com/Jorixon/JASM/commit/160b1566a44671e103fb7f755553c4348efecf7e))
+
+
+### Miscellaneous
+
+* Added Hugo, Missing WuWa skins, Current and upcoming patch Star Rail and WuWa characters ([#383](https://github.com/Jorixon/JASM/issues/383)) ([df20a59](https://github.com/Jorixon/JASM/commit/df20a59630f0441bf6f246d72713af5ac3e03673))
+* Updated release dates for Star Rail, WuWa and ZZZ characters ([9ed4f58](https://github.com/Jorixon/JASM/commit/9ed4f587cf7670a463efac5c151e55f04bf5596a))
+
+## [2.22.4](https://github.com/Jorixon/JASM/compare/v2.22.3...v2.22.4) (2025-05-13)
+
+
+### Miscellaneous
+
+* Updated RU locale for Genshin, ZZZ and HSR ([#378](https://github.com/Jorixon/JASM/issues/378)) ([d332d98](https://github.com/Jorixon/JASM/commit/d332d98b56e9336c269f193d886a044112aeaf45))
+
+## [2.22.3](https://github.com/Jorixon/JASM/compare/v2.22.2...v2.22.3) (2025-05-11)
+
+
+### Miscellaneous
+
+* Added Vivian, Escoffier and missing Genshin skins ([#377](https://github.com/Jorixon/JASM/issues/377)) ([8735754](https://github.com/Jorixon/JASM/commit/87357544eade0a7ef6767692cd1af313576ae0b8))
+
+## [2.22.2](https://github.com/Jorixon/JASM/compare/v2.22.1...v2.22.2) (2025-04-20)
+
+
+### Bug Fixes
+
+* JASM crashing on startup if there is a custom character with same internal name as another moddableObject (npc,weapon,etc) ([254ab3a](https://github.com/Jorixon/JASM/commit/254ab3af585ff2f1828a03694e378794026b63e6))
+
+## [2.22.1](https://github.com/Jorixon/JASM/compare/v2.22.0...v2.22.1) (2025-04-20)
+
+
+### Miscellaneous
+
+* Updated WinAppSDK to 1.7.1 ([#370](https://github.com/Jorixon/JASM/issues/370)) ([1143fc3](https://github.com/Jorixon/JASM/commit/1143fc354212d1c58504a114bfffeea2520783eb))
+* **Genshin:** Updated images and release dates for Iansan and Varesa ([#370](https://github.com/Jorixon/JASM/issues/370)) ([1143fc3](https://github.com/Jorixon/JASM/commit/1143fc354212d1c58504a114bfffeea2520783eb))
+
+## [2.22.0](https://github.com/Jorixon/JASM/compare/v2.21.1...v2.22.0) (2025-03-09)
+
+
+### Features
+
+* **gallery:** Support paste image and save at the gallery page ([#349](https://github.com/Jorixon/JASM/issues/349)) ([776275b](https://github.com/Jorixon/JASM/commit/776275bf7376e5ccb5365f8f3f7915d36f1fb04c))
+
+
+### Bug Fixes
+
+* Pinned characters not being moved to the top on character overview page ([#355](https://github.com/Jorixon/JASM/issues/355)) ([0388d59](https://github.com/Jorixon/JASM/commit/0388d5965a4069586ce2f8fb2a1c0e624089f54d))
+
+
+### Miscellaneous
+
+* **Genshin:** Added Iansan and Varesa ([#352](https://github.com/Jorixon/JASM/issues/352)) ([97a7389](https://github.com/Jorixon/JASM/commit/97a738993836888bd1fd6e0aefb6ba0590662869))
+* **Honkai:** Added Castorice and Anaxa ([#352](https://github.com/Jorixon/JASM/issues/352)) ([97a7389](https://github.com/Jorixon/JASM/commit/97a738993836888bd1fd6e0aefb6ba0590662869))
+* **WuWa:** Added Cantarella ([#352](https://github.com/Jorixon/JASM/issues/352)) ([97a7389](https://github.com/Jorixon/JASM/commit/97a738993836888bd1fd6e0aefb6ba0590662869))
+
 ## [2.21.1](https://github.com/Jorixon/JASM/compare/v2.21.0...v2.21.1) (2025-02-16)
 
 
